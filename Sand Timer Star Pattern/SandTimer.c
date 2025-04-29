@@ -11,6 +11,7 @@ int main()
     for (i = 0; i < n; i++)
     {
         for (j = 0; j < i; j++)
+        //ug
             printf(" ");
         for (j = 0; j < n - 2 * i; j++)
             printf("*");
