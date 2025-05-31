@@ -35,6 +35,7 @@ int main()
     {
         for (int j = 0; j < width; j++)
         {
+            
             if (j == width / 2 - i || j == width / 2 + i)
                 printf("|");
             else
