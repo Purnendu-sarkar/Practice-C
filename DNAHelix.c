@@ -25,6 +25,7 @@ int main() {
                 printf(" T---A\n");
                 break;
 break;
+break ;
         }
     }
 
