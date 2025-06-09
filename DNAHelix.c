@@ -24,6 +24,7 @@ int main() {
             case 5:
                 printf(" T---A\n");
                 break;
+break;
         }
     }
 
