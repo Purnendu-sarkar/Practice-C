@@ -18,7 +18,8 @@ int main()
     printf("   /_/\\_\\   \n");
     printf("   \\_||_/   \n");
     printf("    ||||    \n");
-    printf("   ~~~~~~   \n");
+    printf("   ~~~~~~   \n");//this is command 
+    printf("Somapto");
 
     return 0;
 }
