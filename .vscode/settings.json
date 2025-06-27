@@ -57,6 +57,8 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "DNAStarPattern.C": "cpp"
+    "*.dbclient-js": "javascript",
+    "DNAStarPattern.C": "cpp",
+    "Satellite_Dish.C": "cpp"
   }
 }
