@@ -30,6 +30,7 @@ int main()
             printf("%d ", a[i][j]);
         }
         printf("\n");
+        printf("Purnendu");
     }
 
     return 0;
