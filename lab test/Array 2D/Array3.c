@@ -65,5 +65,6 @@ int main()
     }
     printf("\nMaximum element in the matrix: %d\n", max);
 
+    printf("\nMaximum element in the matrix: %d\n", max);
     return 0;
 }
