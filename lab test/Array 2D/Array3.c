@@ -64,7 +64,5 @@ int main()
         }
     }
     printf("\nMaximum element in the matrix: %d\n", max);
-
-    printf("Purnendu Sarkar", max);
     return 0;
 }
