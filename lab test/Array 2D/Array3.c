@@ -60,6 +60,8 @@ int main()
             if (a[i][j] > max)
             {
                 max = a[i][j];
+
+max = a[i][j];
             }
         }
     }
