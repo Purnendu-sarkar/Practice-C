@@ -95,6 +95,9 @@ int main()
                 printf("%d ", result[i][j]);
             }
             printf("\n");
+            printf("\n");
+            printf("\n");
+            printf("\n");
         }
     }
     else
