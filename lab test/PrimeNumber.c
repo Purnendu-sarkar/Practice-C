@@ -50,6 +50,8 @@ int main() {
         }
 
         num++;
+
+//printf("%d is NOT a Prime number.\n", n);
     }
 
     return 0;
